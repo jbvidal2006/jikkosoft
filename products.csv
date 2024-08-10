@@ -1,0 +1,6 @@
+product_id,product_name,category,stock,price
+5001,Smartphone,Electronics,50,25.00
+5002,Laptop,Electronics,30,15.00
+5003,Tablet,Electronics,20,10.00
+5004,Headphones,Accessories,100,5.00
+5005,Charger,Accessories,150,2.50

@@ -1,0 +1,6 @@
+customer_id,first_name,last_name,email,phone,created_at
+101,John,Doe,johndoe@example.com,555-1234,2023-01-15
+102,Jane,Smith,janesmith@example.com,555-5678,2023-02-20
+103,Emily,Jones,emilyjones@example.com,555-8765,2023-03-10
+104,Michael,Brown,michaelbrown@example.com,555-3456,2023-04-25
+105,Sarah,Johnson,sarahjohnson@example.com,555-7890,2023-05-30
